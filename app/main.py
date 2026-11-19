@@ -15,7 +15,7 @@ security = HTTPBearer()
 app = FastAPI()
 
 # Defining the domains that can access this API
-origins = ['http://localhost:3000']
+origins = ['http://localhost:3000', 'https://milencyfrontend.onrender.com']
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
