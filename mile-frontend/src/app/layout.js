@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Mile — make every mile count",
+  title: "Milency — make every mile count",
   description: "A simple place to record and review your trips.",
 };
 
