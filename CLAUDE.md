@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project overview
 
-Mile is a FastAPI backend for tracking mileage/trips. Users register, log in via JWT, and record trips (start/end odometer readings + purpose) tied to their account.
+Milency is a FastAPI backend for tracking mileage/trips. Users register, log in via JWT, and record trips (start/end odometer readings + purpose) tied to their account.
 
 ## Environment setup
 

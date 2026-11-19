@@ -34,7 +34,7 @@ export default function Login() {
       eyebrow="Welcome back"
       title="Good to see you."
       description="Your trips are right where you left them."
-      footer={<>New to Mile? <Link href="/register" className="font-medium text-ink underline decoration-line underline-offset-4 hover:text-olive">Create an account</Link></>}
+      footer={<>New to Milency? <Link href="/register" className="font-medium text-ink underline decoration-line underline-offset-4 hover:text-olive">Create an account</Link></>}
     >
       <form onSubmit={handleSubmit} className="space-y-5">
         <div>

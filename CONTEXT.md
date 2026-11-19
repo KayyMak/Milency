@@ -1,6 +1,6 @@
-# Mile
+# Milency
 
-Mile is a mileage tracker: users record trips (start/end odometer readings + purpose) tied to their account.
+Milency is a mileage tracker: users record trips (start/end odometer readings + purpose) tied to their account.
 
 ## Language
 

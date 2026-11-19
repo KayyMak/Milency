@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Mile — make every mile count",
-  description: "A simple place to record and review your trips.",
+  title: "Milency",
+  description: "Track your mileage trips with Milency.",
 };
 
 export default function RootLayout({ children }) {

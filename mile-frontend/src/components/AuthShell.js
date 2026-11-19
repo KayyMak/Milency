@@ -18,7 +18,7 @@ export default function AuthShell({ eyebrow, title, description, children, foote
         <div className="absolute -right-64 -top-64 size-[48rem] rounded-full border border-white/50" />
         <div className="absolute -bottom-60 -left-48 size-[42rem] rounded-full border border-white/60" />
         <div className="absolute left-1/2 top-[-15%] h-[130%] w-28 -rotate-[28deg] rounded-full border border-dashed border-white/70" />
-        <p className="relative text-xs font-semibold uppercase tracking-[0.22em] text-ink">Mile / Travel well, remember easily</p>
+        <p className="relative text-xs font-semibold uppercase tracking-[0.22em] text-ink">Milency / Travel well, remember easily</p>
         <div className="relative max-w-lg">
           <span className="mb-8 block h-px w-14 bg-olive" />
           <p className="text-[clamp(3.5rem,5vw,6rem)] font-light leading-[1.05] tracking-[-0.075em] text-ink">Your miles have<br />a place here.</p>

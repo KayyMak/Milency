@@ -36,7 +36,7 @@ export default function Home() {
           <div className="absolute left-[46%] top-[-10%] h-[130%] w-24 -rotate-[29deg] rounded-full border border-dashed border-white/80 sm:w-32" />
           <div className="relative z-10 flex h-full min-h-[380px] flex-col justify-between rounded-[1.5rem] border border-white/55 bg-white/55 p-7 shadow-[0_20px_70px_rgba(32,40,32,0.08)] backdrop-blur-sm sm:min-h-[440px] sm:p-9 lg:min-h-[520px]">
             <div className="flex items-center justify-between text-xs font-semibold uppercase tracking-[0.18em] text-muted">
-              <span>Your journey</span><span>Mile</span>
+              <span>Your journey</span><span>Milency</span>
             </div>
             <div>
               <span className="mb-5 block h-px w-12 bg-olive" />
