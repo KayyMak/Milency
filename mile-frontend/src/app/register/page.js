@@ -32,9 +32,8 @@ export default function Register() {
 
   return (
     <AuthShell
-      eyebrow="Start here"
-      title="Make room for the road."
-      description="Create your account and give every trip a place to land."
+      title="Create an account"
+      description="Track your trips and mileage in one place."
       footer={<>Already have an account? <Link href="/login" className="font-medium text-ink underline decoration-line underline-offset-4 hover:text-olive">Log in</Link></>}
     >
       <form onSubmit={handleSubmit} className="space-y-5">
